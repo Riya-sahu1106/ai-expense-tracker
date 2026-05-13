@@ -25,7 +25,7 @@ personalized budget insights.
 
 ### Steps
 1. Clone the repository
-   git clone https://github.com/yourusername/ai-expense-tracker.git
+   git clone https://github.com/Riya-sahu1106/ai-expense-tracker.git
 
 2. Configure MySQL in application.properties
    spring.datasource.url=jdbc:mysql://localhost:3306/expense_tracker
